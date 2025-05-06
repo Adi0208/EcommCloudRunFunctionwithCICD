@@ -1,1 +1,1 @@
-# EcommCloudRunFunctionwithCICD
+# EcommCloudRunFunctionWithCICD
